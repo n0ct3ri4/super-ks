@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "events": "^3.3.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0"
+  },
+  "name": "superks",
+  "version": "0.1.2-release",
+  "description": "KaliScripter alternative for advanced users.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0ct3ri4/superks.git",
+    "directory": "."
+  },
+  "keywords": [
+    "node",
+    "js",
+    "nodejs",
+    "kaliscripter",
+    "kali",
+    "scripter",
+    "ks",
+    "advanced"
+  ],
+  "author": {
+    "email": "contact@wlvs.fr",
+    "name": "n0ct3ri4",
+    "url": "https://github.com/n0ct3ri4"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/n0ct3ri4/superks/issues",
+    "email": "contact@wlvs.fr"
+  },
+  "homepage": "https://github.com/n0ct3ri4/superks#readme"
+}
